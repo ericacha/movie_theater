@@ -19,3 +19,4 @@ This web app allows the user to select the name of a movie, the time of day that
 - Bootstrap ver 3.3.1
 - mochaJS ver 2.2.1
 - chaiJS ver 2.2.0
+-jQuery
