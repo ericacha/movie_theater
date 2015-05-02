@@ -1,14 +1,14 @@
-# Bank Account for Epicodus
-## by James Nielson & Erica Cha
-### Date: April 15th, 2015
+# Movie Tickets
+## by  Erica Cha
+### Date: May 2nd, 2015
 #### Description
-This web app allows the user to enter their name and amount to deposit withdraw. Will show account's balance.
+This web app allows the user to select the name of a movie, the time of day that they would like to see the movie and their age. The webpage should let them know how much their movie ticket will cost, based on those three factors. The non-"first-release" movies, matinee and senior tickets tend to be cheaper than the regular priced ticket.
 
 #### Setup instructions
 1. Clone this git repository
-2. Start the web app by loading bank.html in your browser
+2. Start the web app by loading index.html in your browser
 
-#### Copyright © 2015, James Nielson & Erica Cha
+#### Copyright © 2015, Erica Cha
 
 #### License: [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)  
 
